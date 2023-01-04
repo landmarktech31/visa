@@ -25,12 +25,16 @@
 # Registers:
 
 # File marks:
-'0  4  0  ~/test.cases
-|4,48,4,0,1672748141,"~/test.cases"
-'1  5  15  ~/deploy.py
-|4,49,5,15,1672746664,"~/deploy.py"
+'0  2  5  ~/deploy.py
+|4,48,2,5,1672752769,"~/deploy.py"
+'1  4  0  ~/test.cases
+|4,49,4,0,1672748141,"~/test.cases"
+'2  5  15  ~/deploy.py
+|4,50,5,15,1672746664,"~/deploy.py"
 
 # Jumplist (newest first):
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
 -'  4  0  ~/test.cases
 |4,39,4,0,1672748141,"~/test.cases"
 -'  1  0  ~/test.cases
@@ -43,6 +47,8 @@
 |4,39,1,0,1672746113,"~/deploy.py"
 -'  1  0  ~/deploy.py
 |4,39,1,0,1672746113,"~/deploy.py"
+-'  1  0  ~/deploy.py
+|4,39,1,0,1672744366,"~/deploy.py"
 
 # History of marks within files (newest to oldest):
 
@@ -55,11 +61,7 @@
 	+	3	3
 
 > ~/deploy.py
-	*	1672746648	0
-	"	5	15
-	^	5	16
-	.	5	15
-	+	1	0
-	+	5	29
-	+	5	66
-	+	5	15
+	*	1672744501	0
+	"	2	5
+	.	2	4
+	+	2	4
