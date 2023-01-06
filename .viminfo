@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1672748141,,"wq"
+|2,0,1672887397,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,246 @@
 # Registers:
 
 # File marks:
-'0  2  5  ~/deploy.py
-|4,48,2,5,1672752769,"~/deploy.py"
-'1  4  0  ~/test.cases
-|4,49,4,0,1672748141,"~/test.cases"
-'2  5  15  ~/deploy.py
-|4,50,5,15,1672746664,"~/deploy.py"
+'0  2  0  ~/visa/deploy.py
+|4,48,2,0,1672887397,"~/visa/deploy.py"
+'1  5  15  ~/visa/deploy.py
+|4,49,5,15,1672887094,"~/visa/deploy.py"
+'2  5  15  ~/visa/deploy.py
+|4,50,5,15,1672887094,"~/visa/deploy.py"
+'3  3  2  ~/visa/cases
+|4,51,3,2,1672884303,"~/visa/cases"
+'4  5  15  ~/visa/deploy.py
+|4,52,5,15,1672884027,"~/visa/deploy.py"
+'5  5  15  ~/visa/deploy.py
+|4,53,5,15,1672884027,"~/visa/deploy.py"
+'6  2  5  ~/deploy.py
+|4,54,2,5,1672752769,"~/deploy.py"
+'7  4  0  ~/test.cases
+|4,55,4,0,1672748141,"~/test.cases"
+'8  5  15  ~/deploy.py
+|4,56,5,15,1672746664,"~/deploy.py"
 
 # Jumplist (newest first):
+-'  2  0  ~/visa/deploy.py
+|4,39,2,0,1672887397,"~/visa/deploy.py"
+-'  5  15  ~/visa/deploy.py
+|4,39,5,15,1672887343,"~/visa/deploy.py"
+-'  5  15  ~/visa/deploy.py
+|4,39,5,15,1672887094,"~/visa/deploy.py"
+-'  3  2  ~/visa/cases
+|4,39,3,2,1672884303,"~/visa/cases"
+-'  3  2  ~/visa/cases
+|4,39,3,2,1672884303,"~/visa/cases"
+-'  3  2  ~/visa/cases
+|4,39,3,2,1672884303,"~/visa/cases"
+-'  3  2  ~/visa/cases
+|4,39,3,2,1672884303,"~/visa/cases"
+-'  1  0  ~/visa/cases
+|4,39,1,0,1672884195,"~/visa/cases"
+-'  1  0  ~/visa/cases
+|4,39,1,0,1672884195,"~/visa/cases"
+-'  1  0  ~/visa/cases
+|4,39,1,0,1672884195,"~/visa/cases"
+-'  1  0  ~/visa/cases
+|4,39,1,0,1672884195,"~/visa/cases"
+-'  5  15  ~/visa/deploy.py
+|4,39,5,15,1672884027,"~/visa/deploy.py"
+-'  5  15  ~/visa/deploy.py
+|4,39,5,15,1672884027,"~/visa/deploy.py"
+-'  1  0  ~/visa/deploy.py
+|4,39,1,0,1672883354,"~/visa/deploy.py"
+-'  1  0  ~/visa/deploy.py
+|4,39,1,0,1672883354,"~/visa/deploy.py"
+-'  1  0  ~/visa/deploy.py
+|4,39,1,0,1672883354,"~/visa/deploy.py"
+-'  1  0  ~/visa/deploy.py
+|4,39,1,0,1672883354,"~/visa/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
+-'  2  5  ~/deploy.py
+|4,39,2,5,1672752769,"~/deploy.py"
 -'  2  5  ~/deploy.py
 |4,39,2,5,1672752769,"~/deploy.py"
 -'  4  0  ~/test.cases
 |4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  4  0  ~/test.cases
+|4,39,4,0,1672748141,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
+-'  1  0  ~/test.cases
+|4,39,1,0,1672748038,"~/test.cases"
 -'  1  0  ~/test.cases
 |4,39,1,0,1672748038,"~/test.cases"
 -'  5  15  ~/deploy.py
 |4,39,5,15,1672746664,"~/deploy.py"
 -'  5  15  ~/deploy.py
 |4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
+-'  5  15  ~/deploy.py
+|4,39,5,15,1672746664,"~/deploy.py"
 -'  1  0  ~/deploy.py
 |4,39,1,0,1672746113,"~/deploy.py"
 -'  1  0  ~/deploy.py
 |4,39,1,0,1672746113,"~/deploy.py"
 -'  1  0  ~/deploy.py
-|4,39,1,0,1672744366,"~/deploy.py"
+|4,39,1,0,1672746113,"~/deploy.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/visa/deploy.py
+	*	1672887393	0
+	"	2	0
+	^	2	1
+	.	2	0
+	+	5	15
+	+	4	0
+	+	6	20
+	+	6	0
+	+	2	0
+
+> ~/visa/cases
+	*	1672884298	0
+	"	3	2
+	^	3	3
+	.	3	2
+	+	3	2
 
 > ~/test.cases
 	*	1672748135	0

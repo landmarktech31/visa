@@ -79,3 +79,69 @@ deploy,py
 echo "deploy.py"
 cat deploy.py
 clear
+git status
+git add .
+git status
+git add .
+git status
+git commit -m "my firstcommit"
+cat test.cases
+cat visa
+cat deploy.py
+git add .
+git status
+pwd
+mkdir visa
+rm visa
+rmdir visa
+mkdir visa
+pwd
+cd visa
+pwd
+clear
+git status
+git restore ../.Xauthority
+git status
+ls
+ll
+chmod 400
+git status
+ls -a
+mkdir cases
+ls -a
+mkdir test.cases
+ls -a
+cat test.cases
+cat deploy.py
+git status
+git init
+clear
+git status
+ls -a
+git add .
+git status
+git add cases
+git add test.cases
+git status
+ls -a
+git status
+git add cases
+git status
+clear
+ls -a
+gj
+clear
+ls -a
+git add *
+git status
+git add cases
+git status
+clear
+sudo hostname dev
+sudo su - david
+sudo su - emehdavid
+sudo su - ubuntu
+clear
+ls -a
+cat cases
+git status
